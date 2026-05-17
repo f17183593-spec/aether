@@ -1,0 +1,118 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "cart": "Cart",
+    "login": "Sign In",
+    "register": "Create Account",
+    "account": "My Account",
+    "admin": "Admin",
+    "vendor": "Vendor",
+    "logout": "Sign Out",
+    "search": "Search products..."
+  },
+  "home": {
+    "hero": {
+      "title": "Where Luxury Meets the Future",
+      "subtitle": "Discover ÆTHERIS — a curated collection of premium products redefining modern elegance. Experience shopping reimagined.",
+      "cta": "Explore Collection"
+    },
+    "featured": "Featured Products",
+    "categories": "Shop by Category",
+    "newArrivals": "New Arrivals",
+    "testimonials": "What Our Clients Say",
+    "newsletter": "Join the ÆTHERIS Circle"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "reviews": "Reviews",
+    "description": "Description",
+    "attributes": "Specifications",
+    "relatedProducts": "You May Also Like"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "subtotal": "Subtotal",
+    "checkout": "Checkout",
+    "continueShopping": "Continue Shopping"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "shipping": "Shipping",
+    "payment": "Payment",
+    "review": "Review Order",
+    "placeOrder": "Place Order",
+    "coupon": "Have a coupon?"
+  },
+  "auth": {
+    "login": "Sign In",
+    "register": "Create Account",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "orders": "Orders",
+    "users": "Users",
+    "coupons": "Coupons",
+    "analytics": "Analytics",
+    "lowStock": "Low Stock Alerts"
+  },
+  "vendor": {
+    "dashboard": "Vendor Dashboard",
+    "products": "My Products",
+    "orders": "Orders",
+    "earnings": "Earnings",
+    "addProduct": "Add Product",
+    "editProduct": "Edit Product",
+    "fulfillOrder": "Fulfill Order",
+    "totalSales": "Total Sales",
+    "activeListings": "Active Listings",
+    "pendingOrders": "Pending Orders",
+    "revenue": "Revenue"
+  },
+  "wallet": {
+    "title": "Loyalty Wallet",
+    "points": "Points",
+    "tier": "Tier",
+    "pointsHistory": "Points History",
+    "redeemTitle": "Redeem Points",
+    "redeemLabel": "Points to redeem",
+    "redeemButton": "Generate Coupon",
+    "pointsToCoupon": "points = $1 off",
+    "noTransactions": "No transactions yet",
+    "couponCreated": "Coupon {code} created for {value} off!",
+    "conversionRate": "100 points = $1.00"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "noNotifications": "No notifications yet",
+    "newOrder": "New order received",
+    "lowStock": "Low stock alert",
+    "orderShipped": "Order shipped successfully",
+    "welcome": "Welcome to ÆTHERIS"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Success!",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "noResults": "No results found",
+    "viewAll": "View all",
+    "export": "Export CSV"
+  }
+}

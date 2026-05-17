@@ -1,0 +1,118 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "cart": "السلة",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "account": "حسابي",
+    "admin": "لوحة التحكم",
+    "vendor": "التاجر",
+    "logout": "تسجيل الخروج",
+    "search": "البحث عن منتجات..."
+  },
+  "home": {
+    "hero": {
+      "title": "حيث تلتقي الفخامة بالمستقبل",
+      "subtitle": "اكتشف إيثيريس — مجموعة مختارة من المنتجات الفاخرة التي تعيد تعريف الأناقة العصرية. جرب التسوق بشكل مبتكر.",
+      "cta": "استكشف المجموعة"
+    },
+    "featured": "منتجات مميزة",
+    "categories": "تسوق حسب الفئة",
+    "newArrivals": "وصل حديثاً",
+    "testimonials": "ماذا يقول عملاؤنا",
+    "newsletter": "انضم إلى دائرة إيثيريس"
+  },
+  "product": {
+    "addToCart": "أضف إلى السلة",
+    "outOfStock": "نفد من المخزون",
+    "reviews": "التقييمات",
+    "description": "الوصف",
+    "attributes": "المواصفات",
+    "relatedProducts": "قد يعجبك أيضاً"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": "سلتك فارغة",
+    "subtotal": "المجموع الفرعي",
+    "checkout": "إتمام الطلب",
+    "continueShopping": "مواصلة التسوق"
+  },
+  "checkout": {
+    "title": "إتمام الطلب",
+    "shipping": "الشحن",
+    "payment": "الدفع",
+    "review": "مراجعة الطلب",
+    "placeOrder": "تأكيد الطلب",
+    "coupon": "هل لديك كوبون؟"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "name": "الاسم الكامل",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "هل لديك حساب بالفعل؟"
+  },
+  "admin": {
+    "dashboard": "لوحة التحكم",
+    "products": "المنتجات",
+    "orders": "الطلبات",
+    "users": "المستخدمين",
+    "coupons": "الكوبونات",
+    "analytics": "التحليلات",
+    "lowStock": "تنبيهات المخزون المنخفض"
+  },
+  "vendor": {
+    "dashboard": "لوحة التاجر",
+    "products": "منتجاتي",
+    "orders": "الطلبات",
+    "earnings": "الأرباح",
+    "addProduct": "إضافة منتج",
+    "editProduct": "تعديل المنتج",
+    "fulfillOrder": "تجهيز الطلب",
+    "totalSales": "إجمالي المبيعات",
+    "activeListings": "القوائم النشطة",
+    "pendingOrders": "الطلبات المعلقة",
+    "revenue": "الإيرادات"
+  },
+  "wallet": {
+    "title": "محفظة الولاء",
+    "points": "النقاط",
+    "tier": "المستوى",
+    "pointsHistory": "سجل النقاط",
+    "redeemTitle": "استبدال النقاط",
+    "redeemLabel": "النقاط للاستبدال",
+    "redeemButton": "إنشاء كوبون",
+    "pointsToCoupon": "نقطة = 1 دولار خصم",
+    "noTransactions": "لا توجد معاملات بعد",
+    "couponCreated": "تم إنشاء الكوبون {code} بقيمة {value}!",
+    "conversionRate": "100 نقطة = 1.00 دولار"
+  },
+  "notifications": {
+    "title": "الإشعارات",
+    "noNotifications": "لا توجد إشعارات",
+    "newOrder": "تم استلام طلب جديد",
+    "lowStock": "تنبيه المخزون المنخفض",
+    "orderShipped": "تم شحن الطلب بنجاح",
+    "welcome": "مرحباً بك في إيثيريس"
+  },
+  "common": {
+    "loading": "جارٍ التحميل...",
+    "error": "حدث خطأ ما",
+    "success": "تم بنجاح!",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "create": "إنشاء",
+    "search": "بحث",
+    "filter": "تصفية",
+    "clear": "مسح",
+    "noResults": "لا توجد نتائج",
+    "viewAll": "عرض الكل",
+    "export": "تصدير CSV"
+  }
+}
